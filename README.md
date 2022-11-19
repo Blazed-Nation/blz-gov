@@ -5,7 +5,7 @@
         Another Dream turned into Reality by:
     </i> 
 </blockquote>
-<pre style="text-align:center;overflow-x:scroll;background:#141E30;background: -webkit-linear-gradient(to right, #243B55, #141E30);background: linear-gradient(to right, #243B55, #141E30);color:#ffffff;color:rgba(255,255,255,0.9);text-shadow: 4px 2px rgba(0,0,0,0.3);border:4px solid #0f0f0f;border-top:0;padding-top:40px;">
+<div style="text-align:center;overflow-x:scroll;background:#141E30;background: -webkit-linear-gradient(to right, #243B55, #141E30);background: linear-gradient(to right, #243B55, #141E30);color:#ffffff;color:rgba(255,255,255,0.9);text-shadow: 4px 2px rgba(0,0,0,0.3);border:4px solid #0f0f0f;border-top:0;padding-top:40px;">
 888      888                                 888 
 888      888                                 888 
 888      888                                 888 
@@ -14,7 +14,7 @@
 888  888 888 .d888888   d88P   88888888 888  888 
 888 d88P 888 888  888  d88P    Y8b.     Y88b 888 
 88888P"  888 "Y888888 88888888  "Y8888   "Y88888 
-</pre></div>
+</div></div>
 </header>
 
 <div style="float:right;padding-top:16px;">
