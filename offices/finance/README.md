@@ -9,6 +9,20 @@ Bonds are credit instruments used by companies in need of financing. The company
 
 Bonds may be issued by government agencies and companies. Each bond will be rated by a rating agency based on the creditworthiness of the issuer(s). A bond can be rated A, AA, or AAA.
 
+An example bond note is as follows:
+```
+    {
+        "coupon_rate": "2.3%",
+        "coupon_date": "semi-annual",
+        "face_value": "B$100",
+        "issue_price": "B$100",
+        "issue_date": "11/22/22",
+        "maturity_date": "11/22/27",
+        "company": "Woodrow Financial"
+    }
+```
+
+
 ### Issuing Procedure
 1. **Approach to the operation**
    
